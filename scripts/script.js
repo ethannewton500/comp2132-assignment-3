@@ -1,6 +1,6 @@
 //for part one
 const students = ["Jane", "Joe", "Jack", "Jill", "Jerome"];
-const targetName = "Ethan"; //change "Jill" to your first name
+const targetName = "ethan"; //change "Jill" to your first name
 
 //My added variables
 
